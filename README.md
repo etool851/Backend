@@ -15,3 +15,4 @@ By selecting different branches you can get the sample code that you should have
 | dockerfile | Docker 2 | Added docker container build files |
 | tests | Testy | Added unit tests and requirements |
 | jenkinsfile | CI/CD 5 | Added Jenkinsfile, sonarqube project properties|
+| final | CI/CD 6 | Dockerhub deployment |
